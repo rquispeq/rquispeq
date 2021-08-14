@@ -1,4 +1,4 @@
-Hola! Soy Rony Quispe.
+# Hola! Soy Rony 😃
 
 Soy un desarrollador web. Egresado de la carrera de Ingeniería de Computación y Sistemas.
 
