@@ -4,7 +4,7 @@ Soy un desarrollador web. Egresado de la carrera de Ingeniería de Computación 
 
 Estoy interesado en aprender sobre las nuevas tecnologías. Aprender sobre cómo se organizan las empresas para el desarrollo de Sistemas Web
 
-Actualmente estoy estudiante Python y React, ya que son tecnologías muy populares y con la intención de siempre estar al tanto sobre las nuevas tecnologías
+Actualmente estoy estudiando Python y React, ya que son tecnologías muy populares y con la intención de siempre estar al tanto sobre las nuevas tecnologías
 
 
 Habilidades.
@@ -17,7 +17,7 @@ Habilidades.
 
 Como soy:
 * Curioso
-* Analitico
+* Analítico
 * Creativo
 * Lógico
 
