@@ -1,6 +1,6 @@
 # Hola! Soy Rony 😃
 
-Soy un desarrollador web. Egresado de la carrera de Ingeniería de Computación y Sistemas.
+Soy un desarrollador web. Bachiller de la carrera de Ingeniería de Computación y Sistemas.
 
 Estoy interesado en aprender sobre las nuevas tecnologías. Aprender sobre cómo se organizan las empresas para el desarrollo de Sistemas Web
 
