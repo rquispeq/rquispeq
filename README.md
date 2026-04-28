@@ -1,8 +1,3 @@
-<style>
-    a{
-        background: red;
-    }
-</style>
 <h1 align="center">Hi 👋, I'm Rony Quispe</h1>
 <h3 align="center">A software engineer with 7 years of experience specialized in backend web development from Perú</h3>
 
@@ -29,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex; gap:1rem; justify-content: center;">
+<p align="center" style="display:flex; gap:1rem; justify-content: center;">
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
     </a>
